@@ -1,8 +1,0 @@
-127.0.0.1 localhost
-::1 ip6-localhost
-0.0.0.0 http://hk4e-api-os.mihoyo.com:443
-0.0.0.0 http://hk4e-api-os.mihoyo.com
-0.0.0.0 https://hk4e-api-os.mihoyo.com
-0.0.0.0 https://hk4e-api-os.mihoyo.com:443
-0.0.0.0 hk4e-api-os.mihoyo.com
-0.0.0.0 hk4e-api-os.mihoyo.com:443
